@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# The trained model is rebuilt by run_all.py; forecasts and reports are committed instead.
+models/
